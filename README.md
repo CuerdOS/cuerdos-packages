@@ -1,2 +1,2 @@
 # cuerdos-packages
-The oficial CuerdOS repositorie
+The official CuerdOS repository
